@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Ung dung tinh tien lai cho vay/1.0.0": {
+        "runtime": {
+          "Ung dung tinh tien lai cho vay.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ung dung tinh tien lai cho vay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

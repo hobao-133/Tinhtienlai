@@ -1,0 +1,14 @@
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Thực Hành\Ung dung tinh tien lai cho vay\bin\Debug\net9.0\Ung dung tinh tien lai cho vay.exe
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Thực Hành\Ung dung tinh tien lai cho vay\bin\Debug\net9.0\Ung dung tinh tien lai cho vay.deps.json
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Thực Hành\Ung dung tinh tien lai cho vay\bin\Debug\net9.0\Ung dung tinh tien lai cho vay.runtimeconfig.json
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Thực Hành\Ung dung tinh tien lai cho vay\bin\Debug\net9.0\Ung dung tinh tien lai cho vay.dll
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Thực Hành\Ung dung tinh tien lai cho vay\bin\Debug\net9.0\Ung dung tinh tien lai cho vay.pdb
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Thực Hành\Ung dung tinh tien lai cho vay\obj\Debug\net9.0\Ung dung tinh tien lai cho vay.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Thực Hành\Ung dung tinh tien lai cho vay\obj\Debug\net9.0\Ung dung tinh tien lai cho vay.AssemblyInfoInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Thực Hành\Ung dung tinh tien lai cho vay\obj\Debug\net9.0\Ung dung tinh tien lai cho vay.AssemblyInfo.cs
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Thực Hành\Ung dung tinh tien lai cho vay\obj\Debug\net9.0\Ung dung tinh tien lai cho vay.csproj.CoreCompileInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Thực Hành\Ung dung tinh tien lai cho vay\obj\Debug\net9.0\Ung dung tinh tien lai cho vay.dll
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Thực Hành\Ung dung tinh tien lai cho vay\obj\Debug\net9.0\refint\Ung dung tinh tien lai cho vay.dll
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Thực Hành\Ung dung tinh tien lai cho vay\obj\Debug\net9.0\Ung dung tinh tien lai cho vay.pdb
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Thực Hành\Ung dung tinh tien lai cho vay\obj\Debug\net9.0\Ung dung tinh tien lai cho vay.genruntimeconfig.cache
+c:\Users\OS\Documents\Codegym 2\Part 5 - Câu lệnh lặp\Thực Hành\Ung dung tinh tien lai cho vay\obj\Debug\net9.0\ref\Ung dung tinh tien lai cho vay.dll
